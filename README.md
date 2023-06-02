@@ -1,5 +1,6 @@
 
-![SolidCodersLandscape](https://user-images.githubusercontent.com/108308939/228682556-9351b8b5-f816-4bd0-8e5e-d0e04db6bdd6.jpg)
+![SolidCodersLandscape2](https://github.com/Solid-Coders-Rojo-UCAB/.github/assets/108308939/5e6c0be3-97f4-4570-beed-59dae3fe8812)
+
 
 <div align='center'>
   <i>
